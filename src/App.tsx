@@ -2,8 +2,8 @@
 import './App.css'
 import { Route, Routes } from 'react-router-dom'
 import Login from './page/Login'
-import Task from './page/Task'
 import Signup from './page/Signup'
+import Task from './page/Task'
 
 function App() {
 

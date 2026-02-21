@@ -3,4 +3,4 @@ export type ActionState = {
     success?: boolean;
     errors?: string
 };
-export interface Task {isDone: boolean, task: string}
+export type TaskType = {id: number, isDone: boolean, title: string}
