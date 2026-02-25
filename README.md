@@ -1,4 +1,4 @@
-# upom testing the project please do - npm i/npm install to load the dependency
+# upon testing the project please do - npm i/npm install to load the dependency
 * the current local server for front-end is localhost:5173
 * then api endpoint https://localhost:7144 (which provided by .net)
 
