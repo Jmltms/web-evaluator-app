@@ -1,3 +1,11 @@
+# what is missing to the project i clone (Front-end)
+1. I re-create the app from scratch - initial setup
+2. I implement TS, Shadcn, tailwind
+3. .env file is missing
+4. i create api endpoint for integrations
+5. implement user signup/login
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
