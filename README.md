@@ -4,6 +4,7 @@
 3. .env file is missing
 4. i create api endpoint for integrations
 5. implement user signup/login
+6. add functionality(CRUD) for task
 
 
 # React + TypeScript + Vite
