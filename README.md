@@ -1,10 +1,15 @@
+# upom testing the project please do - npm i/npm install to load the dependency
+* the current local server for front-end is localhost:5173
+* then api endpoint https://localhost:7144 (which provided by .net)
+
 # what is missing to the project i clone (Front-end)
 1. I re-create the app from scratch - initial setup
 2. I implement TS, Shadcn, tailwind
 3. .env file is missing
-4. i create api endpoint for integrations
-5. implement user signup/login
-6. add functionality(CRUD) for task
+4. update the axios configurations
+5. i create api endpoint for integrations
+6. implement user signup/login
+7. add functionality(CRUD) for task
 
 
 # React + TypeScript + Vite
